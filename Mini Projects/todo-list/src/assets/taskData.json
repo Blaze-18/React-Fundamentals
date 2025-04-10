@@ -1,0 +1,63 @@
+[
+    {
+        "task_id": 1,
+        "task_name": "Complete Project Proposal",
+        "task_details": "Write and submit the project proposal for the new client.",
+        "created_at": "2023-10-01T09:00:00Z",
+        "isDone": false,
+        "isPinned": true,
+        "subTasks": [
+            "Research client requirements",
+            "Draft proposal outline",
+            "Review with team"
+        ]
+    },
+    {
+        "task_id": 2,
+        "task_name": "Prepare Presentation",
+        "task_details": "Create slides for the quarterly business review meeting.",
+        "created_at": "2023-10-02T14:30:00Z",
+        "isDone": true,
+        "isPinned": false,
+        "subTasks": [
+            "Gather data for slides",
+            "Design slide templates",
+            "Rehearse presentation"
+        ]
+    },
+    {
+        "task_id": 3,
+        "task_name": "Update Website Content",
+        "task_details": "Add new blog posts and update product descriptions.",
+        "created_at": "2023-10-03T11:15:00Z",
+        "isDone": false,
+        "isPinned": true,
+        "subTasks": [
+            "Write blog post about new features",
+            "Update product images",
+            "Proofread content"
+        ]
+    },
+    {
+        "task_id": 4,
+        "task_name": "Team Meeting",
+        "task_details": "Discuss progress on ongoing projects and assign new tasks.",
+        "created_at": "2023-10-04T10:00:00Z",
+        "isDone": false,
+        "isPinned": false,
+        "subTasks": []
+    },
+    {
+        "task_id": 5,
+        "task_name": "Review Budget",
+        "task_details": "Analyze the current budget and identify areas for cost-saving.",
+        "created_at": "2023-10-05T16:45:00Z",
+        "isDone": true,
+        "isPinned": false,
+        "subTasks": [
+            "Compare actual vs projected expenses",
+            "Identify overspending areas",
+            "Prepare report for management"
+        ]
+    }
+]
