@@ -14,7 +14,7 @@ export class App extends Component {
     declare context: React.ContextType<typeof ThemeContext>;
 
     render() {
-        const apiKey = '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';
+        const apiKey = 'API_KEY';
         const {theme} = this.context;
         return (
             <div>
